@@ -1,0 +1,19 @@
+Họ tên: Trần Minh Khang
+MSSV: 220495
+Giới thiệu: Mình là sinh viên CNTT, yêu thích lập trình và công nghệ.
+Sở thích:
+- Lập trình
+- Đọc sách khoa học
+- Chạy bộ
+Kỹ năng:
+- Hát
+- Đá banh
+- Nhảy 
+
+
+Kế hoạch học tập:
+1. Học Git nâng cao trong 2 tuần.
+2. Hoàn thiện project nhóm theo deadline.
+3. Dành 1 giờ mỗi tối để luyện tập.
+4. Thực hành CI/CD cơ bản.
+5. Tham gia review code cùng nhóm.
