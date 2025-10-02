@@ -6,3 +6,10 @@ Sở thích:
 - Đọc sách khoa học
 - Chạy bộ
 Kỹ năng:
+
+Kế hoạch học tập:
+1. Học Git nâng cao trong 2 tuần.
+2. Hoàn thiện project nhóm theo deadline.
+3. Dành 1 giờ mỗi tối để luyện tập.
+4. Thực hành CI/CD cơ bản.
+5. Tham gia review code cùng nhóm.
