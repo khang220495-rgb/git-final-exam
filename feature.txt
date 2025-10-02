@@ -1,0 +1,6 @@
+Feature: Thêm chức năng tìm kiếm nâng cao
+Mô tả:
+- Cho phép lọc theo ngày, tác giả, và tag.
+- Hỗ trợ tìm kiếm với ký tự đại diện và cụm từ.
+- Trả về kết quả có đánh dấu từ khóa.
+- Thêm pagination và sắp xếp theo relevancy.
