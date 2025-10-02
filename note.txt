@@ -1,3 +1,5 @@
 - Cảm nhận 1: Git giúp quản lý mã nguồn hiệu quả.
 - Cảm nhận 2: Làm việc nhóm dễ dàng hơn với branch và PR.
 - Cảm nhận 3: Ban đầu hơi khó nhưng rất xứng đáng để học.
+- Thêm 1: Xin chao
+- Thêm 2: Tam biet
